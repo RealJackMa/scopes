@@ -1,4 +1,4 @@
-# Scopes - Job Application Tracker
+# Scopes - Job Applications Tracker
 
 - [Scopes - Job Application Tracker](#scopes---job-application-tracker)
   - [Description](#description)
